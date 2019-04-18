@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\MyApp.nuget.stamp
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\MyApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\res.flag
+C:\Users\User\Desktop\L9\MyApp\MyApp\obj\Debug\81\MyApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\L9\Rain\Rain\bin\Debug\Rain.exe.config
+C:\Users\User\Desktop\L9\Rain\Rain\bin\Debug\Rain.exe
+C:\Users\User\Desktop\L9\Rain\Rain\bin\Debug\Rain.pdb
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.Form1.resources
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.Properties.Resources.resources
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.csproj.GenerateResource.cache
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.exe
+C:\Users\User\Desktop\L9\Rain\Rain\obj\Debug\Rain.pdb
